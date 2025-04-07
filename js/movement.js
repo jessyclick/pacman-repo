@@ -1,4 +1,4 @@
-import { DIRECTIONS, OBJECT_TYPE } from "./starter";
+import { DIRECTIONS, OBJECT_TYPE } from "./starter.js";
 
 // Simple Random Movement
 export function randomMovement(position, direction, objectExist) {

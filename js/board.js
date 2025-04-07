@@ -4,7 +4,7 @@ import {
   OBJECT_TYPE,
   CLASSES,
   drawWallOnCanvas,
-} from "./starter";
+} from "./starter.js";
 
 class Board {
   constructor(DOMGrid) {
