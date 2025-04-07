@@ -23,7 +23,6 @@ body {
 }
 
 #wrapper {
-  height: 100dvh;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -333,8 +332,7 @@ body {
 
 @media screen and (min-width: 1920px) {
   #game {
-    position: absolute;
-    top: 50%;
+    margin-top: 100px;
   }
 }
 
