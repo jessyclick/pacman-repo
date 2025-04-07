@@ -23,6 +23,7 @@ body {
 }
 
 #wrapper {
+  height: 100dvh;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
