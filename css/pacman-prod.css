@@ -331,7 +331,7 @@ body {
   }
 }
 
-@media screen and (minwidth: 1920px) {
+@media screen and (min-width: 1920px) {
   #game {
     position: absolute;
     top: 50%;
