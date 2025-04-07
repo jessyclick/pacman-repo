@@ -1,10 +1,10 @@
-import { MAZE, OBJECT_TYPE } from "./starter";
-import { randomMovement } from "./movement";
-import { handleGesture } from "./swipe-events";
+import { MAZE, OBJECT_TYPE } from "./starter.js";
+import { randomMovement } from "./movement.js";
+import { handleGesture } from "./swipe-events.js";
 
-import Board from "./board";
-import Pacman from "./pacman";
-import Ghost from "./ghost";
+import Board from "./board.js";
+import Pacman from "./pacman.js";
+import Ghost from "./ghost.js";
 
 // For Swipe 
 // Refered from = https://gist.github.com/SleepWalker/da5636b1abcbaff48c4d
